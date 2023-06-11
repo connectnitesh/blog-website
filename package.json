@@ -1,12 +1,12 @@
 {
-  "name": "ejs-challenge",
+  "name": "blog-website",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
 "scripts": {
     "start": "node app.js"
 },
-  "author": "",
+  "author": "Nitesh Rawat",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
